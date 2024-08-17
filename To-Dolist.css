@@ -23,11 +23,10 @@ a{
     text-align: center;
     padding-top: 7px;
     transition: 0.2s ease-in;
-}
-
-a:hover{
+   &:hover{
    background-color: #dc3545;
     border-radius: 20px;
+   } 
 }
 
 .logo{
